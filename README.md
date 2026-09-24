@@ -1,9 +1,10 @@
 # 📊 Sales Analytics Dashboard
 
 لوحة تحكم تفاعلية لتحليل مبيعات متجر إلكتروني مصري، مبنية بـ React و Recharts.
-🔗 **Live Demo:** [sales-analytics-dashboard-lyart.vercel.app](https://sales-analytics-dashboard-lyart.vercel.app)UR-LINK)
 
-![Dashboard Preview]()
+🔗 **Live Demo:** [sales-analytics-dashboard-lyart.vercel.app](https://sales-analytics-dashboard-lyart.vercel.app)
+
+![Dashboard Preview](./Screenshot%20%28715%29.png)
 
 ## ✨ المميزات
 
@@ -33,8 +34,8 @@ npm install
 npm run dev
 ```
 
-#### 👩‍💻 المطورة
+## 👩‍💻 المطورة
 
-**Rania Atef** — Full-Stack Developer & AI Engineer
+**Rania Atef**: Full-Stack Developer & AI Engineer
 
 متخصصة في بناء أنظمة متكاملة (Front-end + Back-end)، وفي تطوير حلول الذكاء الاصطناعي و AI Agents.
