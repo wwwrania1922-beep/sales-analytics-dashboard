@@ -33,6 +33,8 @@ npm install
 npm run dev
 ```
 
-## 👩‍💻 المطورة
+#### 👩‍💻 المطورة
 
-**Esraa Meslam** — Data Scientist & AI Engineervite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+**Rania Atef** — Full-Stack Developer & AI Engineer
+
+متخصصة في بناء أنظمة متكاملة (Front-end + Back-end)، وفي تطوير حلول الذكاء الاصطناعي و AI Agents.
