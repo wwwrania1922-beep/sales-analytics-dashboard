@@ -4,7 +4,7 @@
 
 🔗 **Live Demo:** [sales-analytics-dashboard-lyart.vercel.app](https://sales-analytics-dashboard-lyart.vercel.app)
 
-![Dashboard Preview](./Screenshot%20%28715%29.png)
+![Dashboard Preview](./screenshot.png)
 
 ## ✨ المميزات
 
