@@ -3,7 +3,7 @@
 لوحة تحكم تفاعلية لتحليل مبيعات متجر إلكتروني مصري، مبنية بـ React و Recharts.
 🔗 **Live Demo:** [sales-analytics-dashboard-lyart.vercel.app](https://sales-analytics-dashboard-lyart.vercel.app)UR-LINK)
 
-![Dashboard Preview](./screenshot.png)
+![Dashboard Preview]()
 
 ## ✨ المميزات
 
